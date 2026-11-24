@@ -63,20 +63,61 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 
-<div align="center">
-  <a href="https://github.com/karl-bucad/shoplens"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karl-bucad&repo=shoplens&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&icon_color=3498DB&v=2" alt="ShopLens repository" /></a>
-  <a href="https://github.com/karl-bucad/AveloHealth"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karl-bucad&repo=AveloHealth&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&icon_color=3498DB&v=2" alt="AveloHealth repository" /></a>
-</div>
-
-<div align="center">
-  <a href="https://github.com/karl-bucad/internship-tracker-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karl-bucad&repo=internship-tracker-frontend&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&icon_color=3498DB&v=2" alt="Internship Tracker frontend repository" /></a>
-  <a href="https://github.com/karl-bucad/cpp-cryptocurrency-parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=karl-bucad&repo=cpp-cryptocurrency-parser&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=CDD9E5&icon_color=3498DB&v=2" alt="C++ Cryptocurrency Parser repository" /></a>
-</div>
-
-<p align="center">
-  <sub><b>ShopLens:</b> Next.js · FastAPI · PostgreSQL &nbsp; | &nbsp; <b>AveloHealth:</b> Hackathon project · AI integrations<br />
-  <b>Internship Tracker:</b> React frontend &nbsp; | &nbsp; <b>C++ Cryptocurrency Parser:</b> CSV data processing</sub>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/karl-bucad/shoplens">🔹 ShopLens</a>
+      </h3>
+      <p align="center">
+        Full-stack TikTok Shop affiliate analytics platform built with Next.js, FastAPI, and PostgreSQL.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/karl-bucad/AveloHealth">🔹 AveloHealth</a>
+      </h3>
+      <p align="center">
+        AI-powered healthcare application developed at SpartaHack using Gemini and Snowflake integrations.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" />
+        <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/karl-bucad/internship-tracker-frontend">🔹 Internship Tracker</a>
+      </h3>
+      <p align="center">
+        React-based internship application tracker for organizing job applications, tracking progress, and managing recruitment workflows.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">
+        <a href="https://github.com/karl-bucad/cpp-cryptocurrency-parser">🔹 C++ Cryptocurrency Parser</a>
+      </h3>
+      <p align="center">
+        C++ application for parsing cryptocurrency CSV data and validating data-processing logic with doctest.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/doctest-3498DB?style=flat-square" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br />
 
